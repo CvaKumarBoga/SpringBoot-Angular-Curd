@@ -1,0 +1,13 @@
+label{
+    margin-bottom: 33px;
+}
+.card-header{
+    background-color: tomato;
+    text-align: center;
+}
+h5{
+    color: white;
+}
+div{
+    border-color:darkgrey;
+}
